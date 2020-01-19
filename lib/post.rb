@@ -18,4 +18,5 @@ class Post
     else 
       return nil 
     end
+  end
 end
