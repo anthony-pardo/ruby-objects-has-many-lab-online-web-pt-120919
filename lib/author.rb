@@ -8,4 +8,8 @@ class Author
   def posts 
     @posts
   end
+  
+  def posts 
+    @posts
+  end
 end
